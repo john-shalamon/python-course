@@ -8,3 +8,7 @@ print(line2)
 print(line3)
 print(line4)
 print(line5)                         
+
+x=True
+y=False
+print(x and y) # False
