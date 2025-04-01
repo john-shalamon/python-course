@@ -12,3 +12,6 @@ print(line5)
 x=True
 y=False
 print(x and y) # False
+
+a=10
+print("hlo") if a>5 else print("bye")
