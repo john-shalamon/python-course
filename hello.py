@@ -15,3 +15,6 @@ print(x and y) # False
 
 a=10
 print("hlo") if a>5 else print("bye")
+
+b=10
+print(b)
