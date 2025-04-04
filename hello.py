@@ -9,12 +9,13 @@ print(line3)
 print(line4)
 print(line5)                         
 
-x=True
-y=False
-print(x and y) # False
+# x=True
+# y=False
+# print(x and y) # False
 
 a=10
 print("hlo") if a>5 else print("bye")
 
 b=10
 print(b)
+print(b+5)
