@@ -19,3 +19,9 @@ print("hlo") if a>5 else print("bye")
 b=10
 print(b)
 print(b+5)
+
+h1=10
+h2=20
+h3=30
+print(h1+h2+h3)
+
