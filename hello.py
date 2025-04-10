@@ -25,3 +25,6 @@ h2=20
 h3=30
 print(h1+h2+h3)
 
+print("hello world")
+print("hello world")            
+print("hello world")
