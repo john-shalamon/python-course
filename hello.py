@@ -35,3 +35,7 @@ print(decaDE)
 print(type(decaDE))
 statement="i am "+ decaDE+""+"years old"
 print(statement)
+
+print(type(statement))
+print(statement[0])
+print(statement[1])
