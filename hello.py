@@ -39,3 +39,6 @@ print(statement)
 print(type(statement))
 print(statement[0])
 print(statement[1])
+
+print(statement[2])
+print(statement[3]) 
