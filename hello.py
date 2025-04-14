@@ -42,3 +42,8 @@ print(statement[1])
 
 print(statement[2])
 print(statement[3]) 
+b="hello"
+print(b[0])
+print(b[1])
+print(b[2])
+
